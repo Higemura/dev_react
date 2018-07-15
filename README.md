@@ -1,6 +1,4 @@
-# 「作りながら学ぶ React 入門」 サポートページ
-
-![](http://www.shuwasystem.co.jp/products/7980img/5075/a.jpg)
+# react学習用のブランチ
 
 ## 開発環境の構築
 
